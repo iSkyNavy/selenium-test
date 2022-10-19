@@ -1,0 +1,21 @@
+{
+  "files": [],
+  "virtualUserMultiplier": 1,
+  "customColumns": [
+    "enterprise",
+    "department",
+    "feature",
+    "scenario"
+  ],
+  "virtualUserSuites": [
+    {
+      "skip": false,
+      "identifier": "first-test",
+      "files": [],
+      "variables": {
+        "url": "https://usil.edu.pe/",
+        "searchText": "USIL"
+      }
+    }
+  ]
+}
